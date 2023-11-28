@@ -1,0 +1,66 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/huashan/opencv-mobile/opencv-4.8.1/modules/highgui/include/opencv2/highgui.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_highgui",
+				"Module"
+			]
+		},
+		{
+			"file" : "/home/huashan/opencv-mobile/opencv-4.8.1/modules/highgui/include/opencv2/highgui/highgui.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_highgui",
+				"Module"
+			]
+		},
+		{
+			"file" : "/home/huashan/opencv-mobile/opencv-4.8.1/modules/highgui/src/exif.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_highgui",
+				"Module"
+			]
+		},
+		{
+			"file" : "/home/huashan/opencv-mobile/opencv-4.8.1/modules/highgui/src/highgui.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_highgui",
+				"Module"
+			]
+		},
+		{
+			"file" : "/home/huashan/opencv-mobile/opencv-4.8.1/modules/highgui/src/jpeg_encoder_rk_mpp.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_highgui",
+				"Module"
+			]
+		},
+		{
+			"file" : "/home/huashan/opencv-mobile/opencv-4.8.1/build/cvconfig.h"
+		},
+		{
+			"file" : "/home/huashan/opencv-mobile/opencv-4.8.1/build/opencv2/opencv_modules.hpp"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"Main",
+			"opencv_highgui",
+			"Module"
+		],
+		"name" : "opencv_highgui"
+	}
+}

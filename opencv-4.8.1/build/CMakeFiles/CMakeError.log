@@ -1,0 +1,2499 @@
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: {~/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-g++ 
+Build flags: -march=rv64gcv0p7_zfh_xtheadc;-mabi=lp64d;-mtune=c906
+Id flags:  
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: {~/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-g++ 
+Build flags: -march=rv64gcv0p7_zfh_xtheadc;-mabi=lp64d;-mtune=c906
+Id flags: -c 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: {~/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-g++ 
+Build flags: -march=rv64gcv0p7_zfh_xtheadc;-mabi=lp64d;-mtune=c906
+Id flags: --c++ 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: {~/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-g++ 
+Build flags: -march=rv64gcv0p7_zfh_xtheadc;-mabi=lp64d;-mtune=c906
+Id flags: --ec++ 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: {~/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-g++ 
+Build flags: -march=rv64gcv0p7_zfh_xtheadc;-mabi=lp64d;-mtune=c906
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: {~/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-g++ 
+Build flags: 
+Id flags:  
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: {~/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-g++ 
+Build flags: 
+Id flags: -c 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: {~/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-g++ 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: {~/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-g++ 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: {~/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-g++ 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+No such file or directory
+
+
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: {~/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-gcc 
+Build flags: -march=rv64gcv0p7_zfh_xtheadc;-mabi=lp64d;-mtune=c906
+Id flags:  
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: {~/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-gcc 
+Build flags: -march=rv64gcv0p7_zfh_xtheadc;-mabi=lp64d;-mtune=c906
+Id flags: -c 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: {~/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-gcc 
+Build flags: -march=rv64gcv0p7_zfh_xtheadc;-mabi=lp64d;-mtune=c906
+Id flags: -Aa 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: {~/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-gcc 
+Build flags: -march=rv64gcv0p7_zfh_xtheadc;-mabi=lp64d;-mtune=c906
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: {~/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-gcc 
+Build flags: -march=rv64gcv0p7_zfh_xtheadc;-mabi=lp64d;-mtune=c906
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: {~/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-gcc 
+Build flags: 
+Id flags:  
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: {~/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-gcc 
+Build flags: 
+Id flags: -c 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: {~/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-gcc 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: {~/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-gcc 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: {~/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-gcc 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+No such file or directory
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: {~/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin}/bin/riscv64-unknown-linux-musl-g++ 
+Build flags: -fno-rtti;-fno-exceptions
+Id flags:  
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: {~/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin}/bin/riscv64-unknown-linux-musl-g++ 
+Build flags: -fno-rtti;-fno-exceptions
+Id flags: -c 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: {~/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin}/bin/riscv64-unknown-linux-musl-g++ 
+Build flags: -fno-rtti;-fno-exceptions
+Id flags: --c++ 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: {~/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin}/bin/riscv64-unknown-linux-musl-g++ 
+Build flags: -fno-rtti;-fno-exceptions
+Id flags: --ec++ 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: {~/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin}/bin/riscv64-unknown-linux-musl-g++ 
+Build flags: -fno-rtti;-fno-exceptions
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: {~/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin}/bin/riscv64-unknown-linux-musl-g++ 
+Build flags: 
+Id flags:  
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: {~/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin}/bin/riscv64-unknown-linux-musl-g++ 
+Build flags: 
+Id flags: -c 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: {~/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin}/bin/riscv64-unknown-linux-musl-g++ 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: {~/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin}/bin/riscv64-unknown-linux-musl-g++ 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: {~/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin}/bin/riscv64-unknown-linux-musl-g++ 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+No such file or directory
+
+
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: {~/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin}/bin/riscv64-unknown-linux-musl-gcc 
+Build flags: -fno-rtti;-fno-exceptions
+Id flags:  
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: {~/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin}/bin/riscv64-unknown-linux-musl-gcc 
+Build flags: -fno-rtti;-fno-exceptions
+Id flags: -c 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: {~/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin}/bin/riscv64-unknown-linux-musl-gcc 
+Build flags: -fno-rtti;-fno-exceptions
+Id flags: -Aa 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: {~/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin}/bin/riscv64-unknown-linux-musl-gcc 
+Build flags: -fno-rtti;-fno-exceptions
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: {~/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin}/bin/riscv64-unknown-linux-musl-gcc 
+Build flags: -fno-rtti;-fno-exceptions
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: {~/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin}/bin/riscv64-unknown-linux-musl-gcc 
+Build flags: 
+Id flags:  
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: {~/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin}/bin/riscv64-unknown-linux-musl-gcc 
+Build flags: 
+Id flags: -c 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: {~/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin}/bin/riscv64-unknown-linux-musl-gcc 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: {~/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin}/bin/riscv64-unknown-linux-musl-gcc 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: {~/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin}/bin/riscv64-unknown-linux-musl-gcc 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+No such file or directory
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: {~/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/}/bin/riscv64-unknown-linux-musl-g++ 
+Build flags: -fno-rtti;-fno-exceptions
+Id flags:  
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: {~/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/}/bin/riscv64-unknown-linux-musl-g++ 
+Build flags: -fno-rtti;-fno-exceptions
+Id flags: -c 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: {~/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/}/bin/riscv64-unknown-linux-musl-g++ 
+Build flags: -fno-rtti;-fno-exceptions
+Id flags: --c++ 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: {~/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/}/bin/riscv64-unknown-linux-musl-g++ 
+Build flags: -fno-rtti;-fno-exceptions
+Id flags: --ec++ 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: {~/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/}/bin/riscv64-unknown-linux-musl-g++ 
+Build flags: -fno-rtti;-fno-exceptions
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: {~/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/}/bin/riscv64-unknown-linux-musl-g++ 
+Build flags: 
+Id flags:  
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: {~/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/}/bin/riscv64-unknown-linux-musl-g++ 
+Build flags: 
+Id flags: -c 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: {~/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/}/bin/riscv64-unknown-linux-musl-g++ 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: {~/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/}/bin/riscv64-unknown-linux-musl-g++ 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: {~/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/}/bin/riscv64-unknown-linux-musl-g++ 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+No such file or directory
+
+
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: {~/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/}/bin/riscv64-unknown-linux-musl-gcc 
+Build flags: -fno-rtti;-fno-exceptions
+Id flags:  
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: {~/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/}/bin/riscv64-unknown-linux-musl-gcc 
+Build flags: -fno-rtti;-fno-exceptions
+Id flags: -c 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: {~/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/}/bin/riscv64-unknown-linux-musl-gcc 
+Build flags: -fno-rtti;-fno-exceptions
+Id flags: -Aa 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: {~/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/}/bin/riscv64-unknown-linux-musl-gcc 
+Build flags: -fno-rtti;-fno-exceptions
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: {~/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/}/bin/riscv64-unknown-linux-musl-gcc 
+Build flags: -fno-rtti;-fno-exceptions
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: {~/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/}/bin/riscv64-unknown-linux-musl-gcc 
+Build flags: 
+Id flags:  
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: {~/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/}/bin/riscv64-unknown-linux-musl-gcc 
+Build flags: 
+Id flags: -c 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: {~/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/}/bin/riscv64-unknown-linux-musl-gcc 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: {~/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/}/bin/riscv64-unknown-linux-musl-gcc 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: {~/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/}/bin/riscv64-unknown-linux-musl-gcc 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+No such file or directory
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: {~/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-g++ 
+Build flags: -fno-rtti;-fno-exceptions
+Id flags:  
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: {~/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-g++ 
+Build flags: -fno-rtti;-fno-exceptions
+Id flags: -c 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: {~/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-g++ 
+Build flags: -fno-rtti;-fno-exceptions
+Id flags: --c++ 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: {~/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-g++ 
+Build flags: -fno-rtti;-fno-exceptions
+Id flags: --ec++ 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: {~/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-g++ 
+Build flags: -fno-rtti;-fno-exceptions
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: {~/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-g++ 
+Build flags: 
+Id flags:  
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: {~/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-g++ 
+Build flags: 
+Id flags: -c 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: {~/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-g++ 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: {~/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-g++ 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: {~/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-g++ 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+No such file or directory
+
+
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: {~/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-gcc 
+Build flags: -fno-rtti;-fno-exceptions
+Id flags:  
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: {~/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-gcc 
+Build flags: -fno-rtti;-fno-exceptions
+Id flags: -c 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: {~/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-gcc 
+Build flags: -fno-rtti;-fno-exceptions
+Id flags: -Aa 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: {~/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-gcc 
+Build flags: -fno-rtti;-fno-exceptions
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: {~/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-gcc 
+Build flags: -fno-rtti;-fno-exceptions
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: {~/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-gcc 
+Build flags: 
+Id flags:  
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: {~/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-gcc 
+Build flags: 
+Id flags: -c 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: {~/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-gcc 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: {~/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-gcc 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: {~/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-gcc 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+No such file or directory
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: {home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-g++ 
+Build flags: -fno-rtti;-fno-exceptions
+Id flags:  
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: {home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-g++ 
+Build flags: -fno-rtti;-fno-exceptions
+Id flags: -c 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: {home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-g++ 
+Build flags: -fno-rtti;-fno-exceptions
+Id flags: --c++ 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: {home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-g++ 
+Build flags: -fno-rtti;-fno-exceptions
+Id flags: --ec++ 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: {home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-g++ 
+Build flags: -fno-rtti;-fno-exceptions
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: {home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-g++ 
+Build flags: 
+Id flags:  
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: {home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-g++ 
+Build flags: 
+Id flags: -c 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: {home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-g++ 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: {home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-g++ 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: {home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-g++ 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+No such file or directory
+
+
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: {home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-gcc 
+Build flags: -fno-rtti;-fno-exceptions
+Id flags:  
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: {home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-gcc 
+Build flags: -fno-rtti;-fno-exceptions
+Id flags: -c 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: {home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-gcc 
+Build flags: -fno-rtti;-fno-exceptions
+Id flags: -Aa 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: {home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-gcc 
+Build flags: -fno-rtti;-fno-exceptions
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: {home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-gcc 
+Build flags: -fno-rtti;-fno-exceptions
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: {home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-gcc 
+Build flags: 
+Id flags:  
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: {home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-gcc 
+Build flags: 
+Id flags: -c 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: {home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-gcc 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: {home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-gcc 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: {home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-gcc 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+No such file or directory
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: {~/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-g++ 
+Build flags: -fno-rtti;-fno-exceptions
+Id flags:  
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: {~/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-g++ 
+Build flags: -fno-rtti;-fno-exceptions
+Id flags: -c 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: {~/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-g++ 
+Build flags: -fno-rtti;-fno-exceptions
+Id flags: --c++ 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: {~/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-g++ 
+Build flags: -fno-rtti;-fno-exceptions
+Id flags: --ec++ 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: {~/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-g++ 
+Build flags: -fno-rtti;-fno-exceptions
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: {~/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-g++ 
+Build flags: 
+Id flags:  
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: {~/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-g++ 
+Build flags: 
+Id flags: -c 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: {~/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-g++ 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: {~/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-g++ 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: {~/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-g++ 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+No such file or directory
+
+
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: {~/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-gcc 
+Build flags: -fno-rtti;-fno-exceptions
+Id flags:  
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: {~/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-gcc 
+Build flags: -fno-rtti;-fno-exceptions
+Id flags: -c 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: {~/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-gcc 
+Build flags: -fno-rtti;-fno-exceptions
+Id flags: -Aa 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: {~/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-gcc 
+Build flags: -fno-rtti;-fno-exceptions
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: {~/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-gcc 
+Build flags: -fno-rtti;-fno-exceptions
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: {~/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-gcc 
+Build flags: 
+Id flags:  
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: {~/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-gcc 
+Build flags: 
+Id flags: -c 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: {~/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-gcc 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: {~/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-gcc 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: {~/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-gcc 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+No such file or directory
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: {home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-g++ 
+Build flags: -fno-rtti;-fno-exceptions
+Id flags:  
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: {home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-g++ 
+Build flags: -fno-rtti;-fno-exceptions
+Id flags: -c 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: {home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-g++ 
+Build flags: -fno-rtti;-fno-exceptions
+Id flags: --c++ 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: {home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-g++ 
+Build flags: -fno-rtti;-fno-exceptions
+Id flags: --ec++ 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: {home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-g++ 
+Build flags: -fno-rtti;-fno-exceptions
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: {home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-g++ 
+Build flags: 
+Id flags:  
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: {home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-g++ 
+Build flags: 
+Id flags: -c 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: {home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-g++ 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: {home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-g++ 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: {home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-g++ 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+No such file or directory
+
+
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: {home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-gcc 
+Build flags: -fno-rtti;-fno-exceptions
+Id flags:  
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: {home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-gcc 
+Build flags: -fno-rtti;-fno-exceptions
+Id flags: -c 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: {home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-gcc 
+Build flags: -fno-rtti;-fno-exceptions
+Id flags: -Aa 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: {home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-gcc 
+Build flags: -fno-rtti;-fno-exceptions
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: {home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-gcc 
+Build flags: -fno-rtti;-fno-exceptions
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: {home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-gcc 
+Build flags: 
+Id flags:  
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: {home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-gcc 
+Build flags: 
+Id flags: -c 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: {home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-gcc 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: {home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-gcc 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: {home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64}/bin/riscv64-unknown-linux-musl-gcc 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+No such file or directory
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-g++ 
+Build flags: -fno-rtti;-fno-exceptions
+Id flags:  
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-g++ 
+Build flags: -fno-rtti;-fno-exceptions
+Id flags: -c 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-g++ 
+Build flags: -fno-rtti;-fno-exceptions
+Id flags: --c++ 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-g++ 
+Build flags: -fno-rtti;-fno-exceptions
+Id flags: --ec++ 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-g++ 
+Build flags: -fno-rtti;-fno-exceptions
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-g++ 
+Build flags: 
+Id flags:  
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-g++ 
+Build flags: 
+Id flags: -c 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-g++ 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-g++ 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-g++ 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+No such file or directory
+
+
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-gcc 
+Build flags: -fno-rtti;-fno-exceptions
+Id flags:  
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-gcc 
+Build flags: -fno-rtti;-fno-exceptions
+Id flags: -c 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-gcc 
+Build flags: -fno-rtti;-fno-exceptions
+Id flags: -Aa 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-gcc 
+Build flags: -fno-rtti;-fno-exceptions
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-gcc 
+Build flags: -fno-rtti;-fno-exceptions
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-gcc 
+Build flags: 
+Id flags:  
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-gcc 
+Build flags: 
+Id flags: -c 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-gcc 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-gcc 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-gcc 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+No such file or directory
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /home/huashan/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-g++ 
+Build flags: -fno-rtti;-fno-exceptions
+Id flags:  
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /home/huashan/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-g++ 
+Build flags: -fno-rtti;-fno-exceptions
+Id flags: -c 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /home/huashan/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-g++ 
+Build flags: -fno-rtti;-fno-exceptions
+Id flags: --c++ 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /home/huashan/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-g++ 
+Build flags: -fno-rtti;-fno-exceptions
+Id flags: --ec++ 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /home/huashan/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-g++ 
+Build flags: -fno-rtti;-fno-exceptions
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /home/huashan/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-g++ 
+Build flags: 
+Id flags:  
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /home/huashan/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-g++ 
+Build flags: 
+Id flags: -c 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /home/huashan/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-g++ 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /home/huashan/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-g++ 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /home/huashan/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-g++ 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+No such file or directory
+
+
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /home/huashan/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-gcc 
+Build flags: -fno-rtti;-fno-exceptions
+Id flags:  
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /home/huashan/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-gcc 
+Build flags: -fno-rtti;-fno-exceptions
+Id flags: -c 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /home/huashan/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-gcc 
+Build flags: -fno-rtti;-fno-exceptions
+Id flags: -Aa 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /home/huashan/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-gcc 
+Build flags: -fno-rtti;-fno-exceptions
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /home/huashan/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-gcc 
+Build flags: -fno-rtti;-fno-exceptions
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /home/huashan/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-gcc 
+Build flags: 
+Id flags:  
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /home/huashan/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-gcc 
+Build flags: 
+Id flags: -c 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /home/huashan/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-gcc 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /home/huashan/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-gcc 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /home/huashan/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-gcc 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+No such file or directory
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+Build output check failed:
+    Regex: 'command[- ]line option .* is valid for .* but not for C'
+    Output line: 'cc1: warning: command-line option '-fno-rtti' is valid for C++/D/ObjC++ but not for C'
+Compilation failed:
+    source file: '/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp/src.c'
+    check option: '  -fsigned-char'
+===== BUILD LOG =====
+Change Dir: /home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_b6b61/fast && /usr/bin/make -f CMakeFiles/cmTC_b6b61.dir/build.make CMakeFiles/cmTC_b6b61.dir/build
+make[1]: 进入目录“/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp”
+Building C object CMakeFiles/cmTC_b6b61.dir/src.c.o
+/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-gcc --sysroot=/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/sysroot   -fno-rtti -fno-exceptions  -fPIE     -fsigned-char -o CMakeFiles/cmTC_b6b61.dir/src.c.o   -c /home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp/src.c
+cc1: warning: command-line option '-fno-rtti' is valid for C++/D/ObjC++ but not for C
+Linking C executable cmTC_b6b61
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b6b61.dir/link.txt --verbose=1
+/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-gcc --sysroot=/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/sysroot -fno-rtti -fno-exceptions     CMakeFiles/cmTC_b6b61.dir/src.c.o  -o cmTC_b6b61 
+make[1]: 离开目录“/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp”
+
+
+===== END =====
+
+Build output check failed:
+    Regex: 'command[- ]line option .* is valid for .* but not for C'
+    Output line: 'cc1: warning: command-line option '-fno-rtti' is valid for C++/D/ObjC++ but not for C'
+Compilation failed:
+    source file: '/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp/src.c'
+    check option: '  -ffast-math'
+===== BUILD LOG =====
+Change Dir: /home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_23110/fast && /usr/bin/make -f CMakeFiles/cmTC_23110.dir/build.make CMakeFiles/cmTC_23110.dir/build
+make[1]: 进入目录“/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp”
+Building C object CMakeFiles/cmTC_23110.dir/src.c.o
+/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-gcc --sysroot=/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/sysroot   -fno-rtti -fno-exceptions  -fPIE     -ffast-math -o CMakeFiles/cmTC_23110.dir/src.c.o   -c /home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp/src.c
+cc1: warning: command-line option '-fno-rtti' is valid for C++/D/ObjC++ but not for C
+Linking C executable cmTC_23110
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_23110.dir/link.txt --verbose=1
+/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-gcc --sysroot=/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/sysroot -fno-rtti -fno-exceptions     CMakeFiles/cmTC_23110.dir/src.c.o  -o cmTC_23110 
+make[1]: 离开目录“/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp”
+
+
+===== END =====
+
+Build output check failed:
+    Regex: 'command[- ]line option .* is valid for .* but not for C'
+    Output line: 'cc1: warning: command-line option '-fno-rtti' is valid for C++/D/ObjC++ but not for C'
+Compilation failed:
+    source file: '/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp/src.c'
+    check option: '  -W'
+===== BUILD LOG =====
+Change Dir: /home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_89770/fast && /usr/bin/make -f CMakeFiles/cmTC_89770.dir/build.make CMakeFiles/cmTC_89770.dir/build
+make[1]: 进入目录“/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp”
+Building C object CMakeFiles/cmTC_89770.dir/src.c.o
+/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-gcc --sysroot=/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/sysroot   -fno-rtti -fno-exceptions  -fPIE     -W -o CMakeFiles/cmTC_89770.dir/src.c.o   -c /home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp/src.c
+cc1: warning: command-line option '-fno-rtti' is valid for C++/D/ObjC++ but not for C
+Linking C executable cmTC_89770
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_89770.dir/link.txt --verbose=1
+/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-gcc --sysroot=/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/sysroot -fno-rtti -fno-exceptions     CMakeFiles/cmTC_89770.dir/src.c.o  -o cmTC_89770 
+make[1]: 离开目录“/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp”
+
+
+===== END =====
+
+Build output check failed:
+    Regex: 'command[- ]line option .* is valid for .* but not for C'
+    Output line: 'cc1: warning: command-line option '-fno-rtti' is valid for C++/D/ObjC++ but not for C'
+Compilation failed:
+    source file: '/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp/src.c'
+    check option: '  -Wall'
+===== BUILD LOG =====
+Change Dir: /home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_a0363/fast && /usr/bin/make -f CMakeFiles/cmTC_a0363.dir/build.make CMakeFiles/cmTC_a0363.dir/build
+make[1]: 进入目录“/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp”
+Building C object CMakeFiles/cmTC_a0363.dir/src.c.o
+/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-gcc --sysroot=/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/sysroot   -fno-rtti -fno-exceptions  -fPIE     -Wall -o CMakeFiles/cmTC_a0363.dir/src.c.o   -c /home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp/src.c
+cc1: warning: command-line option '-fno-rtti' is valid for C++/D/ObjC++ but not for C
+/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp/src.c:1: warning: ignoring '#pragma  ' [-Wunknown-pragmas]
+    1 | #pragma
+      | 
+Linking C executable cmTC_a0363
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_a0363.dir/link.txt --verbose=1
+/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-gcc --sysroot=/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/sysroot -fno-rtti -fno-exceptions     CMakeFiles/cmTC_a0363.dir/src.c.o  -o cmTC_a0363 
+make[1]: 离开目录“/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp”
+
+
+===== END =====
+
+Build output check failed:
+    Regex: 'command[- ]line option .* is valid for .* but not for C'
+    Output line: 'cc1: warning: command-line option '-fno-rtti' is valid for C++/D/ObjC++ but not for C'
+Compilation failed:
+    source file: '/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp/src.c'
+    check option: '  -Wreturn-type'
+===== BUILD LOG =====
+Change Dir: /home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_904b5/fast && /usr/bin/make -f CMakeFiles/cmTC_904b5.dir/build.make CMakeFiles/cmTC_904b5.dir/build
+make[1]: 进入目录“/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp”
+Building C object CMakeFiles/cmTC_904b5.dir/src.c.o
+/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-gcc --sysroot=/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/sysroot   -fno-rtti -fno-exceptions  -fPIE     -Wreturn-type -o CMakeFiles/cmTC_904b5.dir/src.c.o   -c /home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp/src.c
+cc1: warning: command-line option '-fno-rtti' is valid for C++/D/ObjC++ but not for C
+Linking C executable cmTC_904b5
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_904b5.dir/link.txt --verbose=1
+/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-gcc --sysroot=/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/sysroot -fno-rtti -fno-exceptions     CMakeFiles/cmTC_904b5.dir/src.c.o  -o cmTC_904b5 
+make[1]: 离开目录“/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp”
+
+
+===== END =====
+
+Build output check failed:
+    Regex: 'command[- ]line option .* is valid for .* but not for C'
+    Output line: 'cc1: warning: command-line option '-Wnon-virtual-dtor' is valid for C++/ObjC++ but not for C'
+Compilation failed:
+    source file: '/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp/src.c'
+    check option: '  -Wnon-virtual-dtor'
+===== BUILD LOG =====
+Change Dir: /home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_6206f/fast && /usr/bin/make -f CMakeFiles/cmTC_6206f.dir/build.make CMakeFiles/cmTC_6206f.dir/build
+make[1]: 进入目录“/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp”
+Building C object CMakeFiles/cmTC_6206f.dir/src.c.o
+/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-gcc --sysroot=/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/sysroot   -fno-rtti -fno-exceptions  -fPIE     -Wnon-virtual-dtor -o CMakeFiles/cmTC_6206f.dir/src.c.o   -c /home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp/src.c
+cc1: warning: command-line option '-Wnon-virtual-dtor' is valid for C++/ObjC++ but not for C
+cc1: warning: command-line option '-fno-rtti' is valid for C++/D/ObjC++ but not for C
+Linking C executable cmTC_6206f
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_6206f.dir/link.txt --verbose=1
+/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-gcc --sysroot=/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/sysroot -fno-rtti -fno-exceptions     CMakeFiles/cmTC_6206f.dir/src.c.o  -o cmTC_6206f 
+make[1]: 离开目录“/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp”
+
+
+===== END =====
+
+Build output check failed:
+    Regex: 'command[- ]line option .* is valid for .* but not for C'
+    Output line: 'cc1: warning: command-line option '-fno-rtti' is valid for C++/D/ObjC++ but not for C'
+Compilation failed:
+    source file: '/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp/src.c'
+    check option: '  -Waddress'
+===== BUILD LOG =====
+Change Dir: /home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_15693/fast && /usr/bin/make -f CMakeFiles/cmTC_15693.dir/build.make CMakeFiles/cmTC_15693.dir/build
+make[1]: 进入目录“/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp”
+Building C object CMakeFiles/cmTC_15693.dir/src.c.o
+/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-gcc --sysroot=/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/sysroot   -fno-rtti -fno-exceptions  -fPIE     -Waddress -o CMakeFiles/cmTC_15693.dir/src.c.o   -c /home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp/src.c
+cc1: warning: command-line option '-fno-rtti' is valid for C++/D/ObjC++ but not for C
+Linking C executable cmTC_15693
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_15693.dir/link.txt --verbose=1
+/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-gcc --sysroot=/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/sysroot -fno-rtti -fno-exceptions     CMakeFiles/cmTC_15693.dir/src.c.o  -o cmTC_15693 
+make[1]: 离开目录“/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp”
+
+
+===== END =====
+
+Build output check failed:
+    Regex: 'command[- ]line option .* is valid for .* but not for C'
+    Output line: 'cc1: warning: command-line option '-fno-rtti' is valid for C++/D/ObjC++ but not for C'
+Compilation failed:
+    source file: '/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp/src.c'
+    check option: '  -Wsequence-point'
+===== BUILD LOG =====
+Change Dir: /home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_eae36/fast && /usr/bin/make -f CMakeFiles/cmTC_eae36.dir/build.make CMakeFiles/cmTC_eae36.dir/build
+make[1]: 进入目录“/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp”
+Building C object CMakeFiles/cmTC_eae36.dir/src.c.o
+/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-gcc --sysroot=/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/sysroot   -fno-rtti -fno-exceptions  -fPIE     -Wsequence-point -o CMakeFiles/cmTC_eae36.dir/src.c.o   -c /home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp/src.c
+cc1: warning: command-line option '-fno-rtti' is valid for C++/D/ObjC++ but not for C
+Linking C executable cmTC_eae36
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_eae36.dir/link.txt --verbose=1
+/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-gcc --sysroot=/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/sysroot -fno-rtti -fno-exceptions     CMakeFiles/cmTC_eae36.dir/src.c.o  -o cmTC_eae36 
+make[1]: 离开目录“/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp”
+
+
+===== END =====
+
+Build output check failed:
+    Regex: 'command[- ]line option .* is valid for .* but not for C'
+    Output line: 'cc1: warning: command-line option '-fno-rtti' is valid for C++/D/ObjC++ but not for C'
+Compilation failed:
+    source file: '/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp/src.c'
+    check option: '  -Wformat'
+===== BUILD LOG =====
+Change Dir: /home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_4cc97/fast && /usr/bin/make -f CMakeFiles/cmTC_4cc97.dir/build.make CMakeFiles/cmTC_4cc97.dir/build
+make[1]: 进入目录“/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp”
+Building C object CMakeFiles/cmTC_4cc97.dir/src.c.o
+/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-gcc --sysroot=/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/sysroot   -fno-rtti -fno-exceptions  -fPIE     -Wformat -o CMakeFiles/cmTC_4cc97.dir/src.c.o   -c /home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp/src.c
+cc1: warning: command-line option '-fno-rtti' is valid for C++/D/ObjC++ but not for C
+Linking C executable cmTC_4cc97
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_4cc97.dir/link.txt --verbose=1
+/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-gcc --sysroot=/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/sysroot -fno-rtti -fno-exceptions     CMakeFiles/cmTC_4cc97.dir/src.c.o  -o cmTC_4cc97 
+make[1]: 离开目录“/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp”
+
+
+===== END =====
+
+Build output check failed:
+    Regex: 'command[- ]line option .* is valid for .* but not for C'
+    Output line: 'cc1: warning: command-line option '-fno-rtti' is valid for C++/D/ObjC++ but not for C'
+Compilation failed:
+    source file: '/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp/src.c'
+    check option: ' -Wformat -Wformat-security'
+===== BUILD LOG =====
+Change Dir: /home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_a9dec/fast && /usr/bin/make -f CMakeFiles/cmTC_a9dec.dir/build.make CMakeFiles/cmTC_a9dec.dir/build
+make[1]: 进入目录“/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp”
+Building C object CMakeFiles/cmTC_a9dec.dir/src.c.o
+/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-gcc --sysroot=/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/sysroot   -fno-rtti -fno-exceptions  -fPIE    -Wformat -Wformat-security -o CMakeFiles/cmTC_a9dec.dir/src.c.o   -c /home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp/src.c
+cc1: warning: command-line option '-fno-rtti' is valid for C++/D/ObjC++ but not for C
+Linking C executable cmTC_a9dec
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_a9dec.dir/link.txt --verbose=1
+/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-gcc --sysroot=/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/sysroot -fno-rtti -fno-exceptions     CMakeFiles/cmTC_a9dec.dir/src.c.o  -o cmTC_a9dec 
+make[1]: 离开目录“/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp”
+
+
+===== END =====
+
+Build output check failed:
+    Regex: 'command[- ]line option .* is valid for .* but not for C'
+    Output line: 'cc1: warning: command-line option '-fno-rtti' is valid for C++/D/ObjC++ but not for C'
+Compilation failed:
+    source file: '/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp/src.c'
+    check option: '  -Wmissing-declarations'
+===== BUILD LOG =====
+Change Dir: /home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_ac088/fast && /usr/bin/make -f CMakeFiles/cmTC_ac088.dir/build.make CMakeFiles/cmTC_ac088.dir/build
+make[1]: 进入目录“/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp”
+Building C object CMakeFiles/cmTC_ac088.dir/src.c.o
+/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-gcc --sysroot=/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/sysroot   -fno-rtti -fno-exceptions  -fPIE     -Wmissing-declarations -o CMakeFiles/cmTC_ac088.dir/src.c.o   -c /home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp/src.c
+cc1: warning: command-line option '-fno-rtti' is valid for C++/D/ObjC++ but not for C
+Linking C executable cmTC_ac088
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_ac088.dir/link.txt --verbose=1
+/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-gcc --sysroot=/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/sysroot -fno-rtti -fno-exceptions     CMakeFiles/cmTC_ac088.dir/src.c.o  -o cmTC_ac088 
+make[1]: 离开目录“/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp”
+
+
+===== END =====
+
+Build output check failed:
+    Regex: 'command[- ]line option .* is valid for .* but not for C\+\+'
+    Output line: 'cc1plus: warning: command-line option '-Wmissing-prototypes' is valid for C/ObjC but not for C++'
+Compilation failed:
+    source file: '/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp/src.cxx'
+    check option: ' -fsigned-char -ffast-math -W -Wall -Wreturn-type -Wnon-virtual-dtor -Waddress -Wsequence-point -Wformat -Wformat-security -Wmissing-declarations  -Wmissing-prototypes'
+===== BUILD LOG =====
+Change Dir: /home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_96078/fast && /usr/bin/make -f CMakeFiles/cmTC_96078.dir/build.make CMakeFiles/cmTC_96078.dir/build
+make[1]: 进入目录“/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp”
+Building CXX object CMakeFiles/cmTC_96078.dir/src.cxx.o
+/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-g++ --sysroot=/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/sysroot    -fno-rtti -fno-exceptions  -fPIE    -fsigned-char -ffast-math -W -Wall -Wreturn-type -Wnon-virtual-dtor -Waddress -Wsequence-point -Wformat -Wformat-security -Wmissing-declarations  -Wmissing-prototypes -std=c++11 -o CMakeFiles/cmTC_96078.dir/src.cxx.o -c /home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp/src.cxx
+cc1plus: warning: command-line option '-Wmissing-prototypes' is valid for C/ObjC but not for C++
+/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp/src.cxx:1: warning: ignoring '#pragma  ' [-Wunknown-pragmas]
+    1 | #pragma
+      | 
+Linking CXX executable cmTC_96078
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_96078.dir/link.txt --verbose=1
+/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-g++ --sysroot=/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/sysroot  -fno-rtti -fno-exceptions     CMakeFiles/cmTC_96078.dir/src.cxx.o  -o cmTC_96078 
+make[1]: 离开目录“/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp”
+
+
+===== END =====
+
+Build output check failed:
+    Regex: 'command[- ]line option .* is valid for .* but not for C'
+    Output line: 'cc1: warning: command-line option '-fno-rtti' is valid for C++/D/ObjC++ but not for C'
+Compilation failed:
+    source file: '/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp/src.c'
+    check option: '  -Wmissing-prototypes'
+===== BUILD LOG =====
+Change Dir: /home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_be999/fast && /usr/bin/make -f CMakeFiles/cmTC_be999.dir/build.make CMakeFiles/cmTC_be999.dir/build
+make[1]: 进入目录“/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp”
+Building C object CMakeFiles/cmTC_be999.dir/src.c.o
+/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-gcc --sysroot=/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/sysroot   -fno-rtti -fno-exceptions  -fPIE     -Wmissing-prototypes -o CMakeFiles/cmTC_be999.dir/src.c.o   -c /home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp/src.c
+cc1: warning: command-line option '-fno-rtti' is valid for C++/D/ObjC++ but not for C
+Linking C executable cmTC_be999
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_be999.dir/link.txt --verbose=1
+/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-gcc --sysroot=/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/sysroot -fno-rtti -fno-exceptions     CMakeFiles/cmTC_be999.dir/src.c.o  -o cmTC_be999 
+make[1]: 离开目录“/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp”
+
+
+===== END =====
+
+Build output check failed:
+    Regex: 'command[- ]line option .* is valid for .* but not for C\+\+'
+    Output line: 'cc1plus: warning: command-line option '-Wstrict-prototypes' is valid for C/ObjC but not for C++'
+Compilation failed:
+    source file: '/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp/src.cxx'
+    check option: ' -fsigned-char -ffast-math -W -Wall -Wreturn-type -Wnon-virtual-dtor -Waddress -Wsequence-point -Wformat -Wformat-security -Wmissing-declarations  -Wstrict-prototypes'
+===== BUILD LOG =====
+Change Dir: /home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_6e33d/fast && /usr/bin/make -f CMakeFiles/cmTC_6e33d.dir/build.make CMakeFiles/cmTC_6e33d.dir/build
+make[1]: 进入目录“/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp”
+Building CXX object CMakeFiles/cmTC_6e33d.dir/src.cxx.o
+/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-g++ --sysroot=/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/sysroot    -fno-rtti -fno-exceptions  -fPIE    -fsigned-char -ffast-math -W -Wall -Wreturn-type -Wnon-virtual-dtor -Waddress -Wsequence-point -Wformat -Wformat-security -Wmissing-declarations  -Wstrict-prototypes -std=c++11 -o CMakeFiles/cmTC_6e33d.dir/src.cxx.o -c /home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp/src.cxx
+cc1plus: warning: command-line option '-Wstrict-prototypes' is valid for C/ObjC but not for C++
+/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp/src.cxx:1: warning: ignoring '#pragma  ' [-Wunknown-pragmas]
+    1 | #pragma
+      | 
+Linking CXX executable cmTC_6e33d
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_6e33d.dir/link.txt --verbose=1
+/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-g++ --sysroot=/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/sysroot  -fno-rtti -fno-exceptions     CMakeFiles/cmTC_6e33d.dir/src.cxx.o  -o cmTC_6e33d 
+make[1]: 离开目录“/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp”
+
+
+===== END =====
+
+Build output check failed:
+    Regex: 'command[- ]line option .* is valid for .* but not for C'
+    Output line: 'cc1: warning: command-line option '-fno-rtti' is valid for C++/D/ObjC++ but not for C'
+Compilation failed:
+    source file: '/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp/src.c'
+    check option: '  -Wstrict-prototypes'
+===== BUILD LOG =====
+Change Dir: /home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_535be/fast && /usr/bin/make -f CMakeFiles/cmTC_535be.dir/build.make CMakeFiles/cmTC_535be.dir/build
+make[1]: 进入目录“/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp”
+Building C object CMakeFiles/cmTC_535be.dir/src.c.o
+/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-gcc --sysroot=/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/sysroot   -fno-rtti -fno-exceptions  -fPIE     -Wstrict-prototypes -o CMakeFiles/cmTC_535be.dir/src.c.o   -c /home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp/src.c
+cc1: warning: command-line option '-fno-rtti' is valid for C++/D/ObjC++ but not for C
+Linking C executable cmTC_535be
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_535be.dir/link.txt --verbose=1
+/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-gcc --sysroot=/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/sysroot -fno-rtti -fno-exceptions     CMakeFiles/cmTC_535be.dir/src.c.o  -o cmTC_535be 
+make[1]: 离开目录“/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp”
+
+
+===== END =====
+
+Build output check failed:
+    Regex: 'command[- ]line option .* is valid for .* but not for C'
+    Output line: 'cc1: warning: command-line option '-fno-rtti' is valid for C++/D/ObjC++ but not for C'
+Compilation failed:
+    source file: '/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp/src.c'
+    check option: '  -Wundef'
+===== BUILD LOG =====
+Change Dir: /home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_dc264/fast && /usr/bin/make -f CMakeFiles/cmTC_dc264.dir/build.make CMakeFiles/cmTC_dc264.dir/build
+make[1]: 进入目录“/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp”
+Building C object CMakeFiles/cmTC_dc264.dir/src.c.o
+/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-gcc --sysroot=/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/sysroot   -fno-rtti -fno-exceptions  -fPIE     -Wundef -o CMakeFiles/cmTC_dc264.dir/src.c.o   -c /home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp/src.c
+cc1: warning: command-line option '-fno-rtti' is valid for C++/D/ObjC++ but not for C
+Linking C executable cmTC_dc264
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_dc264.dir/link.txt --verbose=1
+/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-gcc --sysroot=/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/sysroot -fno-rtti -fno-exceptions     CMakeFiles/cmTC_dc264.dir/src.c.o  -o cmTC_dc264 
+make[1]: 离开目录“/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp”
+
+
+===== END =====
+
+Build output check failed:
+    Regex: 'command[- ]line option .* is valid for .* but not for C'
+    Output line: 'cc1: warning: command-line option '-fno-rtti' is valid for C++/D/ObjC++ but not for C'
+Compilation failed:
+    source file: '/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp/src.c'
+    check option: '  -Winit-self'
+===== BUILD LOG =====
+Change Dir: /home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_43938/fast && /usr/bin/make -f CMakeFiles/cmTC_43938.dir/build.make CMakeFiles/cmTC_43938.dir/build
+make[1]: 进入目录“/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp”
+Building C object CMakeFiles/cmTC_43938.dir/src.c.o
+/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-gcc --sysroot=/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/sysroot   -fno-rtti -fno-exceptions  -fPIE     -Winit-self -o CMakeFiles/cmTC_43938.dir/src.c.o   -c /home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp/src.c
+cc1: warning: command-line option '-fno-rtti' is valid for C++/D/ObjC++ but not for C
+Linking C executable cmTC_43938
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_43938.dir/link.txt --verbose=1
+/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-gcc --sysroot=/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/sysroot -fno-rtti -fno-exceptions     CMakeFiles/cmTC_43938.dir/src.c.o  -o cmTC_43938 
+make[1]: 离开目录“/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp”
+
+
+===== END =====
+
+Build output check failed:
+    Regex: 'command[- ]line option .* is valid for .* but not for C'
+    Output line: 'cc1: warning: command-line option '-fno-rtti' is valid for C++/D/ObjC++ but not for C'
+Compilation failed:
+    source file: '/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp/src.c'
+    check option: '  -Wpointer-arith'
+===== BUILD LOG =====
+Change Dir: /home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_b184e/fast && /usr/bin/make -f CMakeFiles/cmTC_b184e.dir/build.make CMakeFiles/cmTC_b184e.dir/build
+make[1]: 进入目录“/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp”
+Building C object CMakeFiles/cmTC_b184e.dir/src.c.o
+/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-gcc --sysroot=/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/sysroot   -fno-rtti -fno-exceptions  -fPIE     -Wpointer-arith -o CMakeFiles/cmTC_b184e.dir/src.c.o   -c /home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp/src.c
+cc1: warning: command-line option '-fno-rtti' is valid for C++/D/ObjC++ but not for C
+Linking C executable cmTC_b184e
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b184e.dir/link.txt --verbose=1
+/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-gcc --sysroot=/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/sysroot -fno-rtti -fno-exceptions     CMakeFiles/cmTC_b184e.dir/src.c.o  -o cmTC_b184e 
+make[1]: 离开目录“/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp”
+
+
+===== END =====
+
+Build output check failed:
+    Regex: 'command[- ]line option .* is valid for .* but not for C'
+    Output line: 'cc1: warning: command-line option '-fno-rtti' is valid for C++/D/ObjC++ but not for C'
+Compilation failed:
+    source file: '/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp/src.c'
+    check option: '  -Wshadow'
+===== BUILD LOG =====
+Change Dir: /home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_48881/fast && /usr/bin/make -f CMakeFiles/cmTC_48881.dir/build.make CMakeFiles/cmTC_48881.dir/build
+make[1]: 进入目录“/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp”
+Building C object CMakeFiles/cmTC_48881.dir/src.c.o
+/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-gcc --sysroot=/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/sysroot   -fno-rtti -fno-exceptions  -fPIE     -Wshadow -o CMakeFiles/cmTC_48881.dir/src.c.o   -c /home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp/src.c
+cc1: warning: command-line option '-fno-rtti' is valid for C++/D/ObjC++ but not for C
+Linking C executable cmTC_48881
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_48881.dir/link.txt --verbose=1
+/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-gcc --sysroot=/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/sysroot -fno-rtti -fno-exceptions     CMakeFiles/cmTC_48881.dir/src.c.o  -o cmTC_48881 
+make[1]: 离开目录“/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp”
+
+
+===== END =====
+
+Build output check failed:
+    Regex: 'command[- ]line option .* is valid for .* but not for C'
+    Output line: 'cc1: warning: command-line option '-Wsign-promo' is valid for C++/ObjC++ but not for C'
+Compilation failed:
+    source file: '/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp/src.c'
+    check option: '  -Wsign-promo'
+===== BUILD LOG =====
+Change Dir: /home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_3e3da/fast && /usr/bin/make -f CMakeFiles/cmTC_3e3da.dir/build.make CMakeFiles/cmTC_3e3da.dir/build
+make[1]: 进入目录“/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp”
+Building C object CMakeFiles/cmTC_3e3da.dir/src.c.o
+/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-gcc --sysroot=/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/sysroot   -fno-rtti -fno-exceptions  -fPIE     -Wsign-promo -o CMakeFiles/cmTC_3e3da.dir/src.c.o   -c /home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp/src.c
+cc1: warning: command-line option '-Wsign-promo' is valid for C++/ObjC++ but not for C
+cc1: warning: command-line option '-fno-rtti' is valid for C++/D/ObjC++ but not for C
+Linking C executable cmTC_3e3da
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_3e3da.dir/link.txt --verbose=1
+/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-gcc --sysroot=/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/sysroot -fno-rtti -fno-exceptions     CMakeFiles/cmTC_3e3da.dir/src.c.o  -o cmTC_3e3da 
+make[1]: 离开目录“/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp”
+
+
+===== END =====
+
+Build output check failed:
+    Regex: 'command[- ]line option .* is valid for .* but not for C'
+    Output line: 'cc1: warning: command-line option '-fno-rtti' is valid for C++/D/ObjC++ but not for C'
+Compilation failed:
+    source file: '/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp/src.c'
+    check option: '  -Wuninitialized'
+===== BUILD LOG =====
+Change Dir: /home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_e577b/fast && /usr/bin/make -f CMakeFiles/cmTC_e577b.dir/build.make CMakeFiles/cmTC_e577b.dir/build
+make[1]: 进入目录“/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp”
+Building C object CMakeFiles/cmTC_e577b.dir/src.c.o
+/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-gcc --sysroot=/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/sysroot   -fno-rtti -fno-exceptions  -fPIE     -Wuninitialized -o CMakeFiles/cmTC_e577b.dir/src.c.o   -c /home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp/src.c
+cc1: warning: command-line option '-fno-rtti' is valid for C++/D/ObjC++ but not for C
+Linking C executable cmTC_e577b
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_e577b.dir/link.txt --verbose=1
+/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-gcc --sysroot=/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/sysroot -fno-rtti -fno-exceptions     CMakeFiles/cmTC_e577b.dir/src.c.o  -o cmTC_e577b 
+make[1]: 离开目录“/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp”
+
+
+===== END =====
+
+Build output check failed:
+    Regex: 'command[- ]line option .* is valid for .* but not for C'
+    Output line: 'cc1: warning: command-line option '-Wsuggest-override' is valid for C++/ObjC++ but not for C'
+Compilation failed:
+    source file: '/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp/src.c'
+    check option: '  -Wsuggest-override'
+===== BUILD LOG =====
+Change Dir: /home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_26a61/fast && /usr/bin/make -f CMakeFiles/cmTC_26a61.dir/build.make CMakeFiles/cmTC_26a61.dir/build
+make[1]: 进入目录“/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp”
+Building C object CMakeFiles/cmTC_26a61.dir/src.c.o
+/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-gcc --sysroot=/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/sysroot   -fno-rtti -fno-exceptions  -fPIE     -Wsuggest-override -o CMakeFiles/cmTC_26a61.dir/src.c.o   -c /home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp/src.c
+cc1: warning: command-line option '-Wsuggest-override' is valid for C++/ObjC++ but not for C
+cc1: warning: command-line option '-fno-rtti' is valid for C++/D/ObjC++ but not for C
+Linking C executable cmTC_26a61
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_26a61.dir/link.txt --verbose=1
+/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-gcc --sysroot=/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/sysroot -fno-rtti -fno-exceptions     CMakeFiles/cmTC_26a61.dir/src.c.o  -o cmTC_26a61 
+make[1]: 离开目录“/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp”
+
+
+===== END =====
+
+Build output check failed:
+    Regex: 'command[- ]line option .* is valid for .* but not for C'
+    Output line: 'cc1: warning: command-line option '-Wno-delete-non-virtual-dtor' is valid for C++/ObjC++ but not for C'
+Compilation failed:
+    source file: '/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp/src.c'
+    check option: '  -Wno-delete-non-virtual-dtor'
+===== BUILD LOG =====
+Change Dir: /home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_1a0fa/fast && /usr/bin/make -f CMakeFiles/cmTC_1a0fa.dir/build.make CMakeFiles/cmTC_1a0fa.dir/build
+make[1]: 进入目录“/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp”
+Building C object CMakeFiles/cmTC_1a0fa.dir/src.c.o
+/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-gcc --sysroot=/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/sysroot   -fno-rtti -fno-exceptions  -fPIE     -Wno-delete-non-virtual-dtor -o CMakeFiles/cmTC_1a0fa.dir/src.c.o   -c /home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp/src.c
+cc1: warning: command-line option '-Wno-delete-non-virtual-dtor' is valid for C++/ObjC++ but not for C
+cc1: warning: command-line option '-fno-rtti' is valid for C++/D/ObjC++ but not for C
+Linking C executable cmTC_1a0fa
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_1a0fa.dir/link.txt --verbose=1
+/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-gcc --sysroot=/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/sysroot -fno-rtti -fno-exceptions     CMakeFiles/cmTC_1a0fa.dir/src.c.o  -o cmTC_1a0fa 
+make[1]: 离开目录“/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp”
+
+
+===== END =====
+
+Build output check failed:
+    Regex: 'unrecognized .*option'
+    Output line: 'cc1plus: note: unrecognized command-line option '-Wno-unnamed-type-template-args' may have been intended to silence earlier diagnostics'
+Compilation failed:
+    source file: '/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp/src.cxx'
+    check option: ' -fsigned-char -ffast-math -W -Wall -Wreturn-type -Wnon-virtual-dtor -Waddress -Wsequence-point -Wformat -Wformat-security -Wmissing-declarations -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wuninitialized -Wsuggest-override -Wno-delete-non-virtual-dtor  -Wno-unnamed-type-template-args'
+===== BUILD LOG =====
+Change Dir: /home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_c1bb1/fast && /usr/bin/make -f CMakeFiles/cmTC_c1bb1.dir/build.make CMakeFiles/cmTC_c1bb1.dir/build
+make[1]: 进入目录“/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp”
+Building CXX object CMakeFiles/cmTC_c1bb1.dir/src.cxx.o
+/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-g++ --sysroot=/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/sysroot    -fno-rtti -fno-exceptions  -fPIE    -fsigned-char -ffast-math -W -Wall -Wreturn-type -Wnon-virtual-dtor -Waddress -Wsequence-point -Wformat -Wformat-security -Wmissing-declarations -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wuninitialized -Wsuggest-override -Wno-delete-non-virtual-dtor  -Wno-unnamed-type-template-args -std=c++11 -o CMakeFiles/cmTC_c1bb1.dir/src.cxx.o -c /home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp/src.cxx
+/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp/src.cxx:1: warning: ignoring '#pragma  ' [-Wunknown-pragmas]
+    1 | #pragma
+      | 
+cc1plus: note: unrecognized command-line option '-Wno-unnamed-type-template-args' may have been intended to silence earlier diagnostics
+Linking CXX executable cmTC_c1bb1
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_c1bb1.dir/link.txt --verbose=1
+/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-g++ --sysroot=/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/sysroot  -fno-rtti -fno-exceptions     CMakeFiles/cmTC_c1bb1.dir/src.cxx.o  -o cmTC_c1bb1 
+make[1]: 离开目录“/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp”
+
+
+===== END =====
+
+Build output check failed:
+    Regex: 'command[- ]line option .* is valid for .* but not for C'
+    Output line: 'cc1: warning: command-line option '-fno-rtti' is valid for C++/D/ObjC++ but not for C'
+Compilation failed:
+    source file: '/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp/src.c'
+    check option: '  -Wno-unnamed-type-template-args'
+===== BUILD LOG =====
+Change Dir: /home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_8d18b/fast && /usr/bin/make -f CMakeFiles/cmTC_8d18b.dir/build.make CMakeFiles/cmTC_8d18b.dir/build
+make[1]: 进入目录“/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp”
+Building C object CMakeFiles/cmTC_8d18b.dir/src.c.o
+/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-gcc --sysroot=/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/sysroot   -fno-rtti -fno-exceptions  -fPIE     -Wno-unnamed-type-template-args -o CMakeFiles/cmTC_8d18b.dir/src.c.o   -c /home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp/src.c
+cc1: warning: command-line option '-fno-rtti' is valid for C++/D/ObjC++ but not for C
+cc1: note: unrecognized command-line option '-Wno-unnamed-type-template-args' may have been intended to silence earlier diagnostics
+Linking C executable cmTC_8d18b
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_8d18b.dir/link.txt --verbose=1
+/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-gcc --sysroot=/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/sysroot -fno-rtti -fno-exceptions     CMakeFiles/cmTC_8d18b.dir/src.c.o  -o cmTC_8d18b 
+make[1]: 离开目录“/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp”
+
+
+===== END =====
+
+Build output check failed:
+    Regex: 'command[- ]line option .* is valid for .* but not for C'
+    Output line: 'cc1: warning: command-line option '-fno-rtti' is valid for C++/D/ObjC++ but not for C'
+Compilation failed:
+    source file: '/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp/src.c'
+    check option: '  -Wno-comment'
+===== BUILD LOG =====
+Change Dir: /home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_883a2/fast && /usr/bin/make -f CMakeFiles/cmTC_883a2.dir/build.make CMakeFiles/cmTC_883a2.dir/build
+make[1]: 进入目录“/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp”
+Building C object CMakeFiles/cmTC_883a2.dir/src.c.o
+/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-gcc --sysroot=/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/sysroot   -fno-rtti -fno-exceptions  -fPIE     -Wno-comment -o CMakeFiles/cmTC_883a2.dir/src.c.o   -c /home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp/src.c
+cc1: warning: command-line option '-fno-rtti' is valid for C++/D/ObjC++ but not for C
+Linking C executable cmTC_883a2
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_883a2.dir/link.txt --verbose=1
+/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-gcc --sysroot=/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/sysroot -fno-rtti -fno-exceptions     CMakeFiles/cmTC_883a2.dir/src.c.o  -o cmTC_883a2 
+make[1]: 离开目录“/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp”
+
+
+===== END =====
+
+Build output check failed:
+    Regex: 'command[- ]line option .* is valid for .* but not for C'
+    Output line: 'cc1: warning: command-line option '-fno-rtti' is valid for C++/D/ObjC++ but not for C'
+Compilation failed:
+    source file: '/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp/src.c'
+    check option: '  -Wimplicit-fallthrough=3'
+===== BUILD LOG =====
+Change Dir: /home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_db8c2/fast && /usr/bin/make -f CMakeFiles/cmTC_db8c2.dir/build.make CMakeFiles/cmTC_db8c2.dir/build
+make[1]: 进入目录“/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp”
+Building C object CMakeFiles/cmTC_db8c2.dir/src.c.o
+/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-gcc --sysroot=/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/sysroot   -fno-rtti -fno-exceptions  -fPIE     -Wimplicit-fallthrough=3 -o CMakeFiles/cmTC_db8c2.dir/src.c.o   -c /home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp/src.c
+cc1: warning: command-line option '-fno-rtti' is valid for C++/D/ObjC++ but not for C
+Linking C executable cmTC_db8c2
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_db8c2.dir/link.txt --verbose=1
+/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-gcc --sysroot=/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/sysroot -fno-rtti -fno-exceptions     CMakeFiles/cmTC_db8c2.dir/src.c.o  -o cmTC_db8c2 
+make[1]: 离开目录“/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp”
+
+
+===== END =====
+
+Build output check failed:
+    Regex: 'command[- ]line option .* is valid for .* but not for C'
+    Output line: 'cc1: warning: command-line option '-fno-rtti' is valid for C++/D/ObjC++ but not for C'
+Compilation failed:
+    source file: '/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp/src.c'
+    check option: '  -Wno-strict-overflow'
+===== BUILD LOG =====
+Change Dir: /home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_7e913/fast && /usr/bin/make -f CMakeFiles/cmTC_7e913.dir/build.make CMakeFiles/cmTC_7e913.dir/build
+make[1]: 进入目录“/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp”
+Building C object CMakeFiles/cmTC_7e913.dir/src.c.o
+/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-gcc --sysroot=/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/sysroot   -fno-rtti -fno-exceptions  -fPIE     -Wno-strict-overflow -o CMakeFiles/cmTC_7e913.dir/src.c.o   -c /home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp/src.c
+cc1: warning: command-line option '-fno-rtti' is valid for C++/D/ObjC++ but not for C
+Linking C executable cmTC_7e913
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_7e913.dir/link.txt --verbose=1
+/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-gcc --sysroot=/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/sysroot -fno-rtti -fno-exceptions     CMakeFiles/cmTC_7e913.dir/src.c.o  -o cmTC_7e913 
+make[1]: 离开目录“/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp”
+
+
+===== END =====
+
+Build output check failed:
+    Regex: 'command[- ]line option .* is valid for .* but not for C'
+    Output line: 'cc1: warning: command-line option '-fno-rtti' is valid for C++/D/ObjC++ but not for C'
+Compilation failed:
+    source file: '/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp/src.c'
+    check option: '  -fdiagnostics-show-option'
+===== BUILD LOG =====
+Change Dir: /home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_62848/fast && /usr/bin/make -f CMakeFiles/cmTC_62848.dir/build.make CMakeFiles/cmTC_62848.dir/build
+make[1]: 进入目录“/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp”
+Building C object CMakeFiles/cmTC_62848.dir/src.c.o
+/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-gcc --sysroot=/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/sysroot   -fno-rtti -fno-exceptions  -fPIE     -fdiagnostics-show-option -o CMakeFiles/cmTC_62848.dir/src.c.o   -c /home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp/src.c
+cc1: warning: command-line option '-fno-rtti' is valid for C++/D/ObjC++ but not for C
+Linking C executable cmTC_62848
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_62848.dir/link.txt --verbose=1
+/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-gcc --sysroot=/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/sysroot -fno-rtti -fno-exceptions     CMakeFiles/cmTC_62848.dir/src.c.o  -o cmTC_62848 
+make[1]: 离开目录“/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp”
+
+
+===== END =====
+
+Build output check failed:
+    Regex: 'command[- ]line option .* is valid for .* but not for C'
+    Output line: 'cc1: warning: command-line option '-fno-rtti' is valid for C++/D/ObjC++ but not for C'
+Compilation failed:
+    source file: '/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp/src.c'
+    check option: '  -pthread'
+===== BUILD LOG =====
+Change Dir: /home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_0d2d2/fast && /usr/bin/make -f CMakeFiles/cmTC_0d2d2.dir/build.make CMakeFiles/cmTC_0d2d2.dir/build
+make[1]: 进入目录“/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp”
+Building C object CMakeFiles/cmTC_0d2d2.dir/src.c.o
+/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-gcc --sysroot=/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/sysroot   -fno-rtti -fno-exceptions  -fPIE     -pthread -o CMakeFiles/cmTC_0d2d2.dir/src.c.o   -c /home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp/src.c
+cc1: warning: command-line option '-fno-rtti' is valid for C++/D/ObjC++ but not for C
+Linking C executable cmTC_0d2d2
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_0d2d2.dir/link.txt --verbose=1
+/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-gcc --sysroot=/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/sysroot -fno-rtti -fno-exceptions     CMakeFiles/cmTC_0d2d2.dir/src.c.o  -o cmTC_0d2d2 
+make[1]: 离开目录“/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp”
+
+
+===== END =====
+
+Build output check failed:
+    Regex: 'command[- ]line option .* is valid for .* but not for C'
+    Output line: 'cc1: warning: command-line option '-fno-rtti' is valid for C++/D/ObjC++ but not for C'
+Compilation failed:
+    source file: '/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp/src.c'
+    check option: '  -fomit-frame-pointer'
+===== BUILD LOG =====
+Change Dir: /home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_1ce56/fast && /usr/bin/make -f CMakeFiles/cmTC_1ce56.dir/build.make CMakeFiles/cmTC_1ce56.dir/build
+make[1]: 进入目录“/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp”
+Building C object CMakeFiles/cmTC_1ce56.dir/src.c.o
+/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-gcc --sysroot=/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/sysroot   -fno-rtti -fno-exceptions  -fPIE     -fomit-frame-pointer -o CMakeFiles/cmTC_1ce56.dir/src.c.o   -c /home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp/src.c
+cc1: warning: command-line option '-fno-rtti' is valid for C++/D/ObjC++ but not for C
+Linking C executable cmTC_1ce56
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_1ce56.dir/link.txt --verbose=1
+/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-gcc --sysroot=/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/sysroot -fno-rtti -fno-exceptions     CMakeFiles/cmTC_1ce56.dir/src.c.o  -o cmTC_1ce56 
+make[1]: 离开目录“/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp”
+
+
+===== END =====
+
+Build output check failed:
+    Regex: 'command[- ]line option .* is valid for .* but not for C'
+    Output line: 'cc1: warning: command-line option '-fno-rtti' is valid for C++/D/ObjC++ but not for C'
+Compilation failed:
+    source file: '/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp/src.c'
+    check option: '  -ffunction-sections'
+===== BUILD LOG =====
+Change Dir: /home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_b7cc5/fast && /usr/bin/make -f CMakeFiles/cmTC_b7cc5.dir/build.make CMakeFiles/cmTC_b7cc5.dir/build
+make[1]: 进入目录“/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp”
+Building C object CMakeFiles/cmTC_b7cc5.dir/src.c.o
+/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-gcc --sysroot=/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/sysroot   -fno-rtti -fno-exceptions  -fPIE     -ffunction-sections -o CMakeFiles/cmTC_b7cc5.dir/src.c.o   -c /home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp/src.c
+cc1: warning: command-line option '-fno-rtti' is valid for C++/D/ObjC++ but not for C
+Linking C executable cmTC_b7cc5
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b7cc5.dir/link.txt --verbose=1
+/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-gcc --sysroot=/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/sysroot -fno-rtti -fno-exceptions     CMakeFiles/cmTC_b7cc5.dir/src.c.o  -o cmTC_b7cc5 
+make[1]: 离开目录“/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp”
+
+
+===== END =====
+
+Build output check failed:
+    Regex: 'command[- ]line option .* is valid for .* but not for C'
+    Output line: 'cc1: warning: command-line option '-fno-rtti' is valid for C++/D/ObjC++ but not for C'
+Compilation failed:
+    source file: '/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp/src.c'
+    check option: '  -fdata-sections'
+===== BUILD LOG =====
+Change Dir: /home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_b5fc2/fast && /usr/bin/make -f CMakeFiles/cmTC_b5fc2.dir/build.make CMakeFiles/cmTC_b5fc2.dir/build
+make[1]: 进入目录“/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp”
+Building C object CMakeFiles/cmTC_b5fc2.dir/src.c.o
+/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-gcc --sysroot=/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/sysroot   -fno-rtti -fno-exceptions  -fPIE     -fdata-sections -o CMakeFiles/cmTC_b5fc2.dir/src.c.o   -c /home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp/src.c
+cc1: warning: command-line option '-fno-rtti' is valid for C++/D/ObjC++ but not for C
+Linking C executable cmTC_b5fc2
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b5fc2.dir/link.txt --verbose=1
+/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-gcc --sysroot=/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/sysroot -fno-rtti -fno-exceptions     CMakeFiles/cmTC_b5fc2.dir/src.c.o  -o cmTC_b5fc2 
+make[1]: 离开目录“/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp”
+
+
+===== END =====
+
+Compilation failed:
+    source file: '/home/huashan/opencv-mobile/opencv-4.8.1/cmake/checks/cpu_rvv.cpp'
+    check option: ''
+===== BUILD LOG =====
+Change Dir: /home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_118a3/fast && /usr/bin/make -f CMakeFiles/cmTC_118a3.dir/build.make CMakeFiles/cmTC_118a3.dir/build
+make[1]: 进入目录“/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp”
+Building CXX object CMakeFiles/cmTC_118a3.dir/cpu_rvv.cpp.o
+/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-g++ --sysroot=/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/sysroot    -fno-rtti -fno-exceptions  -fPIE   -std=c++11 -o CMakeFiles/cmTC_118a3.dir/cpu_rvv.cpp.o -c /home/huashan/opencv-mobile/opencv-4.8.1/cmake/checks/cpu_rvv.cpp
+In file included from /home/huashan/opencv-mobile/opencv-4.8.1/cmake/checks/cpu_rvv.cpp:4:
+/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/lib/gcc/riscv64-unknown-linux-musl/10.2.0/include/riscv_vector.h:34:2: error: #error "Vector intrinsics require the vector extension."
+   34 | #error "Vector intrinsics require the vector extension."
+      |  ^~~~~
+/home/huashan/opencv-mobile/opencv-4.8.1/cmake/checks/cpu_rvv.cpp: In function 'int test()':
+/home/huashan/opencv-mobile/opencv-4.8.1/cmake/checks/cpu_rvv.cpp:19:5: error: 'vuint8m1_t' was not declared in this scope; did you mean 'uint8_t'?
+   19 |     vuint8m1_t a = vreinterpret_v_u64m1_u8m1(vle64_v_u64m1(ptr, 2));
+      |     ^~~~~~~~~~
+      |     uint8_t
+/home/huashan/opencv-mobile/opencv-4.8.1/cmake/checks/cpu_rvv.cpp:20:5: error: 'vfloat32m1_t' was not declared in this scope
+   20 |     vfloat32m1_t val = vle32_v_f32m1((const float*)(src), 4);
+      |     ^~~~~~~~~~~~
+/home/huashan/opencv-mobile/opencv-4.8.1/cmake/checks/cpu_rvv.cpp:21:36: error: 'val' was not declared in this scope
+   21 |     return (int)vfmv_f_s_f32m1_f32(val);
+      |                                    ^~~
+/home/huashan/opencv-mobile/opencv-4.8.1/cmake/checks/cpu_rvv.cpp:21:17: error: 'vfmv_f_s_f32m1_f32' was not declared in this scope
+   21 |     return (int)vfmv_f_s_f32m1_f32(val);
+      |                 ^~~~~~~~~~~~~~~~~~
+make[1]: *** [CMakeFiles/cmTC_118a3.dir/build.make:66：CMakeFiles/cmTC_118a3.dir/cpu_rvv.cpp.o] 错误 1
+make[1]: 离开目录“/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp”
+make: *** [Makefile:121：cmTC_118a3/fast] 错误 2
+
+
+===== END =====
+
+Build output check failed:
+    Regex: 'command[- ]line option .* is valid for .* but not for C'
+    Output line: 'cc1: warning: command-line option '-fno-rtti' is valid for C++/D/ObjC++ but not for C'
+Compilation failed:
+    source file: '/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp/src.c'
+    check option: '   -fvisibility=hidden'
+===== BUILD LOG =====
+Change Dir: /home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_adb1b/fast && /usr/bin/make -f CMakeFiles/cmTC_adb1b.dir/build.make CMakeFiles/cmTC_adb1b.dir/build
+make[1]: 进入目录“/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp”
+Building C object CMakeFiles/cmTC_adb1b.dir/src.c.o
+/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-gcc --sysroot=/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/sysroot   -fno-rtti -fno-exceptions  -fPIE      -fvisibility=hidden -o CMakeFiles/cmTC_adb1b.dir/src.c.o   -c /home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp/src.c
+cc1: warning: command-line option '-fno-rtti' is valid for C++/D/ObjC++ but not for C
+Linking C executable cmTC_adb1b
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_adb1b.dir/link.txt --verbose=1
+/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-gcc --sysroot=/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/sysroot -fno-rtti -fno-exceptions     CMakeFiles/cmTC_adb1b.dir/src.c.o  -o cmTC_adb1b 
+make[1]: 离开目录“/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp”
+
+
+===== END =====
+
+Build output check failed:
+    Regex: 'command[- ]line option .* is valid for .* but not for C'
+    Output line: 'cc1: warning: command-line option '-fno-rtti' is valid for C++/D/ObjC++ but not for C'
+Compilation failed:
+    source file: '/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp/src.c'
+    check option: '   -fvisibility-inlines-hidden'
+===== BUILD LOG =====
+Change Dir: /home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_05b5e/fast && /usr/bin/make -f CMakeFiles/cmTC_05b5e.dir/build.make CMakeFiles/cmTC_05b5e.dir/build
+make[1]: 进入目录“/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp”
+Building C object CMakeFiles/cmTC_05b5e.dir/src.c.o
+/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-gcc --sysroot=/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/sysroot   -fno-rtti -fno-exceptions  -fPIE      -fvisibility-inlines-hidden -o CMakeFiles/cmTC_05b5e.dir/src.c.o   -c /home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp/src.c
+cc1: warning: command-line option '-fno-rtti' is valid for C++/D/ObjC++ but not for C
+cc1: warning: command-line option '-fvisibility-inlines-hidden' is valid for C++/ObjC++ but not for C
+Linking C executable cmTC_05b5e
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_05b5e.dir/link.txt --verbose=1
+/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-gcc --sysroot=/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/sysroot -fno-rtti -fno-exceptions     CMakeFiles/cmTC_05b5e.dir/src.c.o  -o cmTC_05b5e 
+make[1]: 离开目录“/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp”
+
+
+===== END =====
+
+Determining if the function sgemm_ exists failed with the following output:
+Change Dir: /home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_f5a13/fast && /usr/bin/make -f CMakeFiles/cmTC_f5a13.dir/build.make CMakeFiles/cmTC_f5a13.dir/build
+make[1]: 进入目录“/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp”
+Building C object CMakeFiles/cmTC_f5a13.dir/CheckFunctionExists.c.o
+/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-gcc --sysroot=/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/sysroot   -fno-rtti -fno-exceptions    -fopenmp -DCHECK_FUNCTION_EXISTS=sgemm_   -DNDEBUG -fPIE   -o CMakeFiles/cmTC_f5a13.dir/CheckFunctionExists.c.o   -c /usr/local/share/cmake-3.16/Modules/CheckFunctionExists.c
+cc1: warning: command-line option '-fno-rtti' is valid for C++/D/ObjC++ but not for C
+Linking C executable cmTC_f5a13
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_f5a13.dir/link.txt --verbose=1
+/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-gcc --sysroot=/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/sysroot -fno-rtti -fno-exceptions    -fopenmp -DCHECK_FUNCTION_EXISTS=sgemm_   -DNDEBUG    -Wl,--gc-sections -Wl,--as-needed -Wl,--no-undefined  CMakeFiles/cmTC_f5a13.dir/CheckFunctionExists.c.o  -o cmTC_f5a13 
+/home/huashan/huashan/workplace/sophpi-huashan/host-tools/gcc/riscv64-linux-musl-x86_64/bin/../lib/gcc/riscv64-unknown-linux-musl/10.2.0/../../../../riscv64-unknown-linux-musl/bin/ld: CMakeFiles/cmTC_f5a13.dir/CheckFunctionExists.c.o: in function `main':
+CheckFunctionExists.c:(.text+0x12): undefined reference to `sgemm_'
+collect2: error: ld returned 1 exit status
+make[1]: *** [CMakeFiles/cmTC_f5a13.dir/build.make:87：cmTC_f5a13] 错误 1
+make[1]: 离开目录“/home/huashan/opencv-mobile/opencv-4.8.1/build/CMakeFiles/CMakeTmp”
+make: *** [Makefile:121：cmTC_f5a13/fast] 错误 2
+
+
+
